@@ -24,7 +24,7 @@ var questions = [{
   ans: "3"
 },{
   que:"Who is my favourite character?\n",
-  mcq:['Prabhas','Ram Charan','Manoj Bajpayee','KK Menon'],
+  mcq:['Prabhs','Ram Charan','Mannoj Bajpayee','KK Menon'],
   ans: "3"
 },{
   que: "Who is my favourite cricketer?\n",
